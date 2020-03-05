@@ -1,1 +1,1 @@
-sCreate a skeleton website with YouTube links and descriptions.
+Create a skeleton website with that looks like the Google webpage.
